@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="GitTest" key="{5A1E7C14-077C-4EA9-AB52-1DF247F5F3FF}" path="GitTest.js" />
+	</children>
+</Root>
